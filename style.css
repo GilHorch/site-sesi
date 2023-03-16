@@ -1,14 +1,17 @@
-body{
+body {
 
-background-color: antiquewhite; /*cor de fund*/
-width: 80%; /*tamanho*/
-
-text-align: justify;/*justifica o texto*/
+    background-color: antiquewhite;
+    /*cor de fund*/
+    width: 80%;
+    /*tamanho*/
+    text-align: justify;
+    /*justifica o texto*/
 
 }
 
 .paragrafoum{
 
     background-color: aquamarine;
-color : rgb(219, 48, 211);/*muda a cor do texto*/
+    color: rgb(219, 48, 211);
+    /*muda a cor do texto*/
 }

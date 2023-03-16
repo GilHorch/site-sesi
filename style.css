@@ -2,7 +2,7 @@ body{
 
 background-color: antiquewhite; /*cor de fund*/
 width: 80%; /*tamanho*/
-color: blue; /*muda a cor do texto*/
+
 text-align: justify;/*justifica o texto*/
 
 }
@@ -10,5 +10,5 @@ text-align: justify;/*justifica o texto*/
 .paragrafoum{
 
     background-color: aquamarine;
-    color: rgb(219, 48, 211);
+color : rgb(219, 48, 211);/*muda a cor do texto*/
 }

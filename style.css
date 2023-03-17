@@ -31,7 +31,8 @@ body {
     /*tamanho*/
     text-align: justify;
     /*justifica o texto*/
-
+    padding: 20px;
+    /*coloca um espaço interno em cada elemento*/
 }
 
 .rodape {

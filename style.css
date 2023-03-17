@@ -11,7 +11,8 @@ body {
 }
 
 .cabeclho {
-    width: auto;
+    width: auto;/*largura*/
+    height: 20%;/*altura*/
 }
 
 .conteudo {
@@ -37,5 +38,6 @@ body {
 
 .rodape {
     width: auto;
+    height: 20%;
 
 }

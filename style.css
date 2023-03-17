@@ -17,6 +17,7 @@ body {
     display: flex;
     /*Cria a flex box*/
     align-items: center;
+    flex-direction: row;/*alinha os elementos em linha*/
     /*alinha as tags filhas ao centro*/
     justify-content: space-around;
     /*acrescenta um espaço entre as boxes*/

@@ -9,7 +9,9 @@ body {
     font-family: 'Roboto Condensed', sans-serif;
     /*escolha de fonte*/
 }
-
+.cabeclho{
+    width: auto;
+}
 .conteudo {
 
     display: flex;
@@ -22,9 +24,13 @@ body {
     /*cor do texto*/
     background-color: antiquewhite;
     /*cor de fund*/
-    width: 80%;
+    width: auto;
     /*tamanho*/
     text-align: justify;
     /*justifica o texto*/
+
+}
+.rodape{
+width: auto;
 
 }

@@ -10,7 +10,7 @@ body {
     /*escolha de fonte*/
 }
 
-.cabeclho {
+.cabecalho {
     width: auto;/*largura*/
     height: 20%;/*altura*/
     background-color: blueviolet;
@@ -37,7 +37,7 @@ body {
     /*coloca um espaço interno em cada elemento*/
 }
 .imagem1{
-    
+
 width: 35%;
 
 }

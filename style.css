@@ -1,5 +1,19 @@
+/**/
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
 body {
-display: flex;
+
+    font-family: 'Roboto Condensed', sans-serif;/*escolha de fonte*/
+
+    display: flex;
+    /*Cria a flex box*/
+    align-items: center;
+    /*alinha as tags filhas ao centro*/
+    justify-content: space-around;
+    /*acrescenta um espaço entre as boxes*/
     background-color: antiquewhite;
     /*cor de fund*/
     width: 80%;
@@ -9,7 +23,7 @@ display: flex;
 
 }
 
-.paragrafo1{
+.paragrafo1 {
 
     background-color: aquamarine;
     color: rgb(219, 48, 211);

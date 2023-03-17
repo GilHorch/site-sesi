@@ -6,7 +6,11 @@
 
 body {
 
-    font-family: 'Roboto Condensed', sans-serif;/*escolha de fonte*/
+    font-family: 'Roboto Condensed', sans-serif;
+    /*escolha de fonte*/
+}
+
+.content {
 
     display: flex;
     /*Cria a flex box*/

@@ -10,7 +10,7 @@ body {
     /*escolha de fonte*/
 }
 
-.content {
+.conteudo {
 
     display: flex;
     /*Cria a flex box*/
@@ -18,6 +18,8 @@ body {
     /*alinha as tags filhas ao centro*/
     justify-content: space-around;
     /*acrescenta um espaço entre as boxes*/
+    color: blue;
+    /*cor do texto*/
     background-color: antiquewhite;
     /*cor de fund*/
     width: 80%;
@@ -25,11 +27,4 @@ body {
     text-align: justify;
     /*justifica o texto*/
 
-}
-
-.paragrafo1 {
-
-    background-color: aquamarine;
-    color: rgb(219, 48, 211);
-    /*muda a cor do texto*/
 }

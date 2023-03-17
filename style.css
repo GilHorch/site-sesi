@@ -13,6 +13,7 @@ body {
 .cabeclho {
     width: auto;/*largura*/
     height: 20%;/*altura*/
+    background-color: blueviolet;
 }
 
 .conteudo {
@@ -39,5 +40,6 @@ body {
 .rodape {
     width: auto;
     height: 20%;
+    background-color: rgb(230, 40, 182);
 
 }

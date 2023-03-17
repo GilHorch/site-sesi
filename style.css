@@ -36,7 +36,10 @@ body {
     padding: 20px;
     /*coloca um espaço interno em cada elemento*/
 }
+.imagem1{
+width: 35%;
 
+}
 .rodape {
     width: auto;
     height: 20%;

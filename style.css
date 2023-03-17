@@ -9,15 +9,17 @@ body {
     font-family: 'Roboto Condensed', sans-serif;
     /*escolha de fonte*/
 }
-.cabeclho{
+
+.cabeclho {
     width: auto;
 }
+
 .conteudo {
 
     display: flex;
     /*Cria a flex box*/
-    align-items: center;
-    flex-direction: row;/*alinha os elementos em linha*/
+    flex-direction: row;
+    /*alinha os elementos em linha*/
     /*alinha as tags filhas ao centro*/
     justify-content: space-around;
     /*acrescenta um espaço entre as boxes*/
@@ -31,7 +33,8 @@ body {
     /*justifica o texto*/
 
 }
-.rodape{
-width: auto;
+
+.rodape {
+    width: auto;
 
 }

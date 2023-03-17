@@ -37,6 +37,9 @@ body {
     padding: 20px;
     /*coloca um espaço interno em cada elemento*/
 }
+.texto{
+    width: 60%;
+}
 .imagem1{
 
 width: 35%;

@@ -12,7 +12,7 @@ body {
 
 .cabecalho {
     width: auto;/*largura*/
-    height: 30%;/*altura*/
+    height: 50%;/*altura*/
     background-color: blueviolet;
 }
 
@@ -44,11 +44,12 @@ body {
 .imagem1{
 
 width: auto;
+border-radius: 15px;
 
 }
 .rodape {
     width: auto;
-    height: 20%;
+    height: 30%;
     background-color: rgb(230, 40, 182);
 
 }
